@@ -1,7 +1,7 @@
-Crud Base 
+Crud Base - Backend
 
 TECH STACK
-Backend Framework: Django 5
+Backend Framework: Django 5 + Django REST Framework
 Database: PostgreSQL 14 (Docker container)
 Containerization: Docker + Docker Compose
 
