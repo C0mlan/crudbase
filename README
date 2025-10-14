@@ -1,4 +1,9 @@
+Crud Base 
 
+TECH STACK
+Backend Framework: Django 5
+Database: PostgreSQL 14 (Docker container)
+Containerization: Docker + Docker Compose
 
 docker-compose build
 docker-compose up -d
